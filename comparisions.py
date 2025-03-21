@@ -1,0 +1,6 @@
+a=int(input ("enter your first choice :"))
+b=int(input ("enter your second choice :"))
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
